@@ -1,5 +1,6 @@
 # feedback-control
 Final Project for mechatronics and embedded systems
+
 Name: Omar Khalil
 Email: ozakaria@u.rochester.edu
 Date: December 8th, 2023
